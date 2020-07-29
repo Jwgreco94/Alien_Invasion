@@ -1,0 +1,12 @@
+Alien Invasion UI Update
+
+These are the updates that have been made to Alien Invasion.
+
+#1 The "High Score", "Score", and "LVL" string labels have been implemented.
+#2 The txt_color has been changed to red in the Scoreboard class file.
+#3 "txt_color2" variable has been added to the Scoreboard class file.
+#4 Font in Scoreboard has been reduced to 36 from 48 point font.
+#5 The ship and alien images have been altered.
+#6 The main game screen color background has been changed to black in the Settings class file.
+#7 sound_effects class file has been added to provide game sounds through the pygame.mixer module.
+#8 Bullets now play a sound effect upon firing and aliens now play a sound effect upon collision.
